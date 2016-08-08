@@ -1,0 +1,155 @@
+Series Name,Series Code,Country Name,Country Code,2006,2007,2008,2009,2010,2011,2012
+GINI index (World Bank estimate),GINI,Australia,AUS,,,35.63,,34.94,,
+GINI index (World Bank estimate),GINI,Brazil,BRA,55.93,55.23,54.37,53.87,,53.1,52.67
+GINI index (World Bank estimate),GINI,Canada,CAN,,33.9,,,33.68,,
+GINI index (World Bank estimate),GINI,France,FRA,29.92,32.63,33.08,,33.78,33.35,33.1
+GINI index (World Bank estimate),GINI,Germany,DEU,32.78,32.4,31.29,31.51,31.14,30.13,
+GINI index (World Bank estimate),GINI,India,IND,,,,33.9,,,
+GINI index (World Bank estimate),GINI,Indonesia,IDN,,,34.11,,35.57,,
+GINI index (World Bank estimate),GINI,Italy,ITA,34.26,33.19,33.74,33.66,34.41,34.52,35.16
+GINI index (World Bank estimate),GINI,Japan,JPN,,,32.11,,,,
+GINI index (World Bank estimate),GINI,Mexico,MEX,48.01,,48.23,,48.13,,48.07
+GINI index (World Bank estimate),GINI,Russian Federation,RUS,41.54,42.33,41.42,39.69,40.94,41.04,41.59
+GINI index (World Bank estimate),GINI,South Africa,ZAF,64.79,,63.01,,,63.38,
+GINI index (World Bank estimate),GINI,United Kingdom,GBR,34.84,35.93,34.37,34.67,34.81,33.71,32.57
+GINI index (World Bank estimate),GINI,United States,USA,,41.75,,,40.46,,
+GINI index (World Bank estimate),GINI,China,CHN,,,42.63,,42.06,,
+Income share held by lowest 20%,SI.DST.FRST.20,Australia,AUS,,,7.09,,7.09,,
+Income share held by lowest 20%,SI.DST.FRST.20,Brazil,BRA,3,2.97,3.14,3.17,,3.25,3.38
+Income share held by lowest 20%,SI.DST.FRST.20,Canada,CAN,,7.16,,,7.1,,
+Income share held by lowest 20%,SI.DST.FRST.20,France,FRA,8.31,7.94,7.86,,7.64,7.77,7.8
+Income share held by lowest 20%,SI.DST.FRST.20,Germany,DEU,7.39,7.75,8.11,8.1,8.01,8.37,
+Income share held by lowest 20%,SI.DST.FRST.20,India,IND,,,,8.54,,8.2,
+Income share held by lowest 20%,SI.DST.FRST.20,Indonesia,IDN,,,8.1,,7.63,,
+Income share held by lowest 20%,SI.DST.FRST.20,Italy,ITA,6.63,6.93,6.85,6.73,6.38,6.46,6.23
+Income share held by lowest 20%,SI.DST.FRST.20,Japan,JPN,,,7.37,,,,
+Income share held by lowest 20%,SI.DST.FRST.20,Mexico,MEX,4.72,,4.76,,4.72,,4.86
+Income share held by lowest 20%,SI.DST.FRST.20,Russian Federation,RUS,5.7,5.77,6.1,6.46,5.84,5.93,5.9
+Income share held by lowest 20%,SI.DST.FRST.20,South Africa,ZAF,2.58,,2.6,,,2.47,
+Income share held by lowest 20%,SI.DST.FRST.20,United Kingdom,GBR,6.9,6.8,7.07,6.98,7.08,7.08,7.51
+Income share held by lowest 20%,SI.DST.FRST.20,United States,USA,,4.67,,,5.09,,
+Income share held by lowest 20%,SI.DST.FRST.20,China,CHN,,,4.78,,4.67,,
+Income share held by highest 20%,SI.DST.05TH.20,Australia,AUS,,,42.83,,42.16,,
+Income share held by highest 20%,SI.DST.05TH.20,Brazil,BRA,60.43,59.57,58.85,58.34,,57.56,57.18
+Income share held by highest 20%,SI.DST.05TH.20,Canada,CAN,,41.28,,,40.97,,
+Income share held by highest 20%,SI.DST.05TH.20,France,FRA,38.35,40.94,41.22,,41.82,41.43,41.23
+Income share held by highest 20%,SI.DST.05TH.20,Germany,DEU,40.39,40.4,39.6,39.87,39.29,38.64,
+Income share held by highest 20%,SI.DST.05TH.20,India,IND,,,,42.82,,44.22,
+Income share held by highest 20%,SI.DST.05TH.20,Indonesia,IDN,,,42.64,,43.65,,
+Income share held by highest 20%,SI.DST.05TH.20,Italy,ITA,41.06,40.21,40.73,40.53,41.06,41.27,41.68
+Income share held by highest 20%,SI.DST.05TH.20,Japan,JPN,,,39.72,,,,
+Income share held by highest 20%,SI.DST.05TH.20,Mexico,MEX,53.88,,54.06,,53.89,,54.1
+Income share held by highest 20%,SI.DST.05TH.20,Russian Federation,RUS,47.94,48.99,48.41,46.99,47.44,47.78,48.33
+Income share held by highest 20%,SI.DST.05TH.20,South Africa,ZAF,71.05,,68.68,,,68.94,
+Income share held by highest 20%,SI.DST.05TH.20,United Kingdom,GBR,42.06,43.07,41.71,41.83,41.98,40.92,40.07
+Income share held by highest 20%,SI.DST.05TH.20,United States,USA,,46.73,,,45.75,,
+Income share held by highest 20%,SI.DST.05TH.20,China,CHN,,,47.87,,47.09,,
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,Australia,AUS,4.7,4.5,4.4,4.2,4.1,3.8,3.6
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,Brazil,BRA,18.2,17.1,16.2,15.4,14.8,14.4,14.3
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,Canada,CAN,5.2,5.1,5,5,4.9,4.7,4.7
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,France,FRA,3.7,3.6,3.5,3.5,3.5,3.5,3.5
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,Germany,DEU,3.8,3.7,3.6,3.6,3.5,3.4,3.3
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,India,IND,53.9,51.9,50,48.2,46.3,44.4,42.6
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,Indonesia,IDN,32.1,30.9,29.7,28.5,27.4,26.3,25.3
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,Italy,ITA,3.7,3.6,3.5,3.5,3.4,3.3,3.2
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,Japan,JPN,2.7,2.6,2.5,2.4,2.4,2.3,2.2
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,Mexico,MEX,16.2,15.8,15.4,15,14.4,13.8,13.1
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,Russian Federation,RUS,13.3,12.4,11.6,10.9,10.3,9.8,9.3
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,South Africa,ZAF,50,48.6,46.6,41.1,38.2,37.1,36.8
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,United Kingdom,GBR,5,4.9,4.7,4.6,4.4,4.2,4.1
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,United States,USA,6.7,6.6,6.5,6.4,6.3,6.1,6.1
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,China,CHN,18.7,17.2,15.8,14.6,13.5,12.5,11.5
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,Australia,AUS,18.10000038,15.39999962,14.89999962,14.69999981,18.60000038,18.89999962,19
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,Brazil,BRA,22.60000038,20.79999924,18.89999962,15.69999981,17.70000076,16,14.60000038
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,Canada,CAN,8.300000191,7.099999905,6.900000095,7.699999809,11.60000038,13.10000038,12.10000038
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,France,FRA,41.5,39.70000076,37,34.90000153,39.70000076,41.20000076,40
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,Germany,DEU,55.70000076,56,51.79999924,44.90000153,46.90000153,47.59999847,45.09999847
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,India,IND,,,,,38.20000076,,
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,Indonesia,IDN,,,,,,,
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,Italy,ITA,48.40000153,46.90000153,45.20000076,44.29999924,48,51.40000153,52.59999847
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,Japan,JPN,33,32,33.29999924,28.5,37.59999847,39.40000153,38.5
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,Mexico,MEX,1.899999976,2.200000048,1.399999976,1.600000024,1.899999976,1.799999952,1.700000048
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,Russian Federation,RUS,42.29999924,40.59999847,35.20000076,28.70000076,30,32.90000153,30.89999962
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,South Africa,ZAF,21.5,22,29.39999962,30.20000076,33.09999847,33.90000153,33.59999847
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,United Kingdom,GBR,22.20000076,23.70000076,24,24.5,32.5,33.40000153,34.59999847
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,United States,USA,10,10,10.60000038,16.29999924,29,31.29999924,29.29999924
+Long-term unemployment (% of total unemployment),SL.UEM.LTRM.ZS,China,CHN,,,,,,,
+"Air transport, passengers carried",IS.AIR.PSGR,Australia,AUS,46951775,48728837,51488427,50026967,60640913,63360310.34,66355274
+"Air transport, passengers carried",IS.AIR.PSGR,Brazil,BRA,40945038,45286990,58763225,67945578,74627064,87860363,94752568
+"Air transport, passengers carried",IS.AIR.PSGR,Canada,CAN,46726978,52103547,53718757,52583516,63277409.38,66078011.95,70467400.79
+"Air transport, passengers carried",IS.AIR.PSGR,France,FRA,59537872,61551258,61214656,58318312,60864422.11,64185339.34,64683769.02
+"Air transport, passengers carried",IS.AIR.PSGR,Germany,DEU,99647314,106101747,107941584,103396735,97330734.28,107042775.8,105978474.5
+"Air transport, passengers carried",IS.AIR.PSGR,India,IND,40288794,51897450,49877935,54446373,64374253.8,73996912,72151828.89
+"Air transport, passengers carried",IS.AIR.PSGR,Indonesia,IDN,29867483,30405918,29766093,27421235,59384361.61,70912258.11,79405799.81
+"Air transport, passengers carried",IS.AIR.PSGR,Italy,ITA,36709131,37830745,30672048,33194501,32645164,33923370.51,31072962.16
+"Air transport, passengers carried",IS.AIR.PSGR,Japan,JPN,102845319,99842338,97022471,86896527,109617021,89788818,98907859
+"Air transport, passengers carried",IS.AIR.PSGR,Mexico,MEX,21243010,20952513,18825976,15728171,31269061,29538937,32909408.72
+"Air transport, passengers carried",IS.AIR.PSGR,Russian Federation,RUS,28836949,33187839,37940321,34402844,43855539,50555805,58727125
+"Air transport, passengers carried",IS.AIR.PSGR,South Africa,ZAF,12932671,12870324,13135437,12503629,15781210,16407784.96,17571565.2
+"Air transport, passengers carried",IS.AIR.PSGR,United Kingdom,GBR,97544631,101622807,104713553,102464509,101515720.2,111598546.1,115419920.6
+"Air transport, passengers carried",IS.AIR.PSGR,United States,USA,725530965,744302310,701779551,679423408,720497000,730796000,736699000
+"Air transport, passengers carried",IS.AIR.PSGR,China,CHN,158013351,183613132,191001220,229062099,266293020,292160158,318475924
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,Australia,AUS,10490.43623,10972.84373,10749.06349,10791.547,10740.40873,10712.16396,10398.20305
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,Brazil,BRA,2044.858925,2137.764992,2198.48369,2165.684743,2339.44492,2394.398488,2462.218873
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,Canada,CAN,16923.19477,17630.63334,17518.13682,16079.63062,15965.17058,16167.70687,15614.6092
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,France,FRA,7535.753392,7519.312017,7649.539052,7335.522853,7735.787277,7216.069302,7343.878483
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,Germany,DEU,7212.437448,7229.089913,7187.764009,6817.158398,7264.322591,7145.72895,7270.152523
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,India,IND,510.7030141,543.3566224,562.9352825,601.5505835,643.8797543,698.433433,743.7414577
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,Indonesia,IDN,519.5059425,552.0350837,574.9853847,594.4222503,636.6872634,681.1208253,729.8805316
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,Italy,ITA,5833.450098,5804.325964,5757.943612,5368.407488,5493.727907,5514.837297,5397.741477
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,Japan,JPN,8246.625057,8474.379106,8052.575685,7808.070474,8337.128133,7841.303019,7752.488684
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,Mexico,MEX,1877.560027,1905.7468,1908.346669,1863.535158,1903.984825,2074.244489,2011.715104
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,Russian Federation,RUS,6098.538123,6286.050536,6399.684466,6095.380575,6409.895218,6485.760845,6617.136241
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,South Africa,ZAF,4770.908402,4897.885598,4706.32553,4465.425427,4580.62056,4606.207081,4404.500084
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,United Kingdom,GBR,6200.554113,6102.413075,6015.726861,5643.16071,5700.808068,5472.603879,5452.030838
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,United States,USA,13583.26696,13657.44951,13663.42468,12913.71143,13394.01461,13240.35799,12954.15326
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,China,CHN,2041.967323,2330.262504,2457.544795,2632.687078,2943.612381,3298.024001,3475.008792
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,Australia,AUS,6.947582409,9.612381165,12.86534009,6.932848412,10.606899,11.54195327,8.251370462
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,Brazil,BRA,6.678441207,7.358517579,8.006461018,4.692435113,6.101766098,6.238066414,6.119046207
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,Canada,CAN,7.290098559,7.308102202,9.128415249,4.263507396,5.001367393,6.124925424,5.415193083
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,France,FRA,0.12934577,0.137642521,0.146087715,0.124803951,0.14139985,0.135608614,0.127208395
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,Germany,DEU,0.269796126,0.291309526,0.402399264,0.175371103,0.2161787,0.276839811,0.187795253
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,India,IND,6.294599664,7.097571296,11.86259468,5.650504011,7.617010058,8.473009884,6.376432694
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,Indonesia,IDN,14.78604864,14.74955675,18.35284771,9.223304178,9.342934124,11.12862259,8.326101337
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,Italy,ITA,0.260235099,0.232245074,0.279277958,0.141210073,0.179742142,0.212051443,0.21959016
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,Japan,JPN,0.037922755,0.044761593,0.053425745,0.031049901,0.030201881,0.032428096,0.029867948
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,Mexico,MEX,9.133557853,8.764296377,10.51000379,6.877157107,7.758061672,9.178495824,8.708081794
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,Russian Federation,RUS,34.5305536,29.27421568,33.08385966,21.06321009,22.63477949,23.730824,20.57330428
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,South Africa,ZAF,5.774175503,7.979346413,18.67474147,7.869023262,10.6033243,12.77159699,10.15807265
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,United Kingdom,GBR,1.772730596,1.605503345,2.327149222,1.318521241,1.462235636,1.476628436,1.174003416
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,United States,USA,1.573410683,1.705327009,2.862129572,1.067900963,1.374639911,1.838806923,1.468617036
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,China,CHN,7.107846488,8.644176335,14.56334136,5.46206028,8.710848315,10.54181594,7.11696301
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,Australia,AUS,2.982870285,3.757657864,3.706699506,1.819678261,2.018182144,2.379561336,3.632720303
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,Brazil,BRA,3.999324276,6.005801827,5.019316013,-0.235978102,7.572067155,3.916382188,1.762488805
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,Canada,CAN,2.621781688,2.008311014,1.175426275,-2.711471142,3.374254224,2.960102474,1.922863575
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,France,FRA,2.3749469,2.361498873,0.195294766,-2.941341055,1.965657375,2.079229175,0.182693034
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,Germany,DEU,3.700159572,3.260535297,1.082315404,-5.618860435,4.079933305,3.660000155,0.405170675
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,India,IND,9.263958898,9.801360337,3.890957062,8.479786622,10.25996299,6.63835345,5.081417925
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,Indonesia,IDN,5.500951785,6.345022227,6.0137036,4.628871183,6.223854181,6.169784208,6.030050653
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,Italy,ITA,2.006404926,1.47412116,-1.049820233,-5.481380161,1.710581858,0.586819403,-2.817938597
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,Japan,JPN,1.692904245,2.192186233,-1.041636034,-5.526976489,4.652030154,-0.452724839,1.753689775
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,Mexico,MEX,4.944514348,3.22483782,1.379943167,-4.743671936,5.199124892,3.919583933,4.038885998
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,Russian Federation,RUS,8.153431973,8.535080209,5.247953532,-7.820885026,4.503725625,4.264176566,3.405546804
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,South Africa,ZAF,5.585045962,5.360474053,3.191043888,-1.538089135,3.039747085,3.212451755,2.219824006
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,United Kingdom,GBR,2.661822553,2.586036583,-0.466876766,-4.19194486,1.54017665,1.972398563,1.179056123
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,United States,USA,2.666625826,1.77857024,-0.291621459,-2.775529574,2.531920616,1.601454672,2.32108446
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,China,CHN,12.6882251,14.19496167,9.623377486,9.233551095,10.63170823,9.484506202,7.750297593
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Australia,AUS,1.908,1.959,1.963,1.888,1.927,1.927,1.921
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Brazil,BRA,2.002,1.944,1.898,1.863,1.838,1.823,1.812
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Canada,CAN,1.5862,1.6589,1.6808,1.668,1.6269,1.61,1.61
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,France,FRA,2,1.98,2.01,2,2.03,2.01,2.01
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Germany,DEU,1.33,1.37,1.38,1.36,1.39,1.36,1.38
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,India,IND,2.896,2.826,2.755,2.687,2.622,2.563,2.51
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Indonesia,IDN,2.489,2.497,2.504,2.51,2.513,2.509,2.5
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Italy,ITA,1.37,1.4,1.45,1.45,1.46,1.44,1.43
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Japan,JPN,1.32,1.34,1.37,1.37,1.39,1.39,1.41
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Mexico,MEX,2.483,2.447,2.415,2.385,2.356,2.328,2.3
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Russian Federation,RUS,1.3,1.41,1.49,1.54,1.57,1.58,1.7
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,South Africa,ZAF,2.627,2.58,2.538,2.5,2.467,2.438,2.412
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,United Kingdom,GBR,1.82,1.86,1.91,1.89,1.92,1.91,1.92
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,United States,USA,2.108,2.12,2.072,2.002,1.931,1.8945,1.8805
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,China,CHN,1.602,1.617,1.63,1.642,1.65,1.657,1.663
+,,,,,,,,,,
+,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,
+Last Updated: 02/17/2016,,,,,,,,,,
